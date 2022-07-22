@@ -1,0 +1,14 @@
+class,line,hits
+org.apache.commons.lang3.LocaleUtils,42,1
+org.apache.commons.lang3.LocaleUtils,43,1
+org.apache.commons.lang3.LocaleUtils,46,1
+org.apache.commons.lang3.LocaleUtils,47,2
+org.apache.commons.lang3.LocaleUtils,57,1
+org.apache.commons.lang3.LocaleUtils,58,1
+org.apache.commons.lang3.LocaleUtils,216,1
+org.apache.commons.lang3.LocaleUtils,241,1
+org.apache.commons.lang3.LocaleUtils$SyncAvoid,318,1
+org.apache.commons.lang3.LocaleUtils$SyncAvoid,319,1
+org.apache.commons.lang3.LocaleUtils$SyncAvoid,320,1
+org.apache.commons.lang3.LocaleUtils$SyncAvoid,321,1
+org.apache.commons.lang3.LocaleUtils$SyncAvoid,313,1

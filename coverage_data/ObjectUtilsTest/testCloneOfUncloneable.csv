@@ -1,0 +1,15 @@
+class,line,hits
+org.apache.commons.lang3.ObjectUtils,63,1
+org.apache.commons.lang3.ObjectUtils,587,1
+org.apache.commons.lang3.ObjectUtils,589,1
+org.apache.commons.lang3.ObjectUtils,602,1
+org.apache.commons.lang3.ObjectUtils,605,2
+org.apache.commons.lang3.ObjectUtils,606,1
+org.apache.commons.lang3.ObjectUtils,607,1
+org.apache.commons.lang3.ObjectUtils$Null,672,1
+org.apache.commons.lang3.ObjectUtils$Null,673,1
+org.apache.commons.lang3.exception.CloneFailedException,60,1
+org.apache.commons.lang3.exception.CloneFailedException,61,1
+org.apache.commons.lang3.mutable.MutableObject,54,1
+org.apache.commons.lang3.mutable.MutableObject,55,1
+org.apache.commons.lang3.mutable.MutableObject,56,1

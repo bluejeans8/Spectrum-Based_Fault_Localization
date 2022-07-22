@@ -1,0 +1,12 @@
+class,line,hits
+org.apache.commons.lang3.concurrent.ConcurrentException,56,1
+org.apache.commons.lang3.concurrent.ConcurrentException,57,1
+org.apache.commons.lang3.concurrent.ConcurrentRuntimeException,58,1
+org.apache.commons.lang3.concurrent.ConcurrentRuntimeException,59,1
+org.apache.commons.lang3.concurrent.ConcurrentUtils,144,2
+org.apache.commons.lang3.concurrent.ConcurrentUtils,145,2
+org.apache.commons.lang3.concurrent.ConcurrentUtils,146,2
+org.apache.commons.lang3.concurrent.ConcurrentUtils,184,1
+org.apache.commons.lang3.concurrent.ConcurrentUtils,202,1
+org.apache.commons.lang3.concurrent.ConcurrentUtils,203,1
+org.apache.commons.lang3.concurrent.ConcurrentUtils,204,1

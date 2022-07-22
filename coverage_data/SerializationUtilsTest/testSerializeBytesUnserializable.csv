@@ -1,0 +1,15 @@
+class,line,hits
+org.apache.commons.lang3.SerializationException,63,1
+org.apache.commons.lang3.SerializationException,64,1
+org.apache.commons.lang3.SerializationUtils,163,1
+org.apache.commons.lang3.SerializationUtils,164,1
+org.apache.commons.lang3.SerializationUtils,132,1
+org.apache.commons.lang3.SerializationUtils,135,1
+org.apache.commons.lang3.SerializationUtils,138,1
+org.apache.commons.lang3.SerializationUtils,139,1
+org.apache.commons.lang3.SerializationUtils,142,1
+org.apache.commons.lang3.SerializationUtils,143,1
+org.apache.commons.lang3.SerializationUtils,145,1
+org.apache.commons.lang3.SerializationUtils,146,1
+org.apache.commons.lang3.SerializationUtils,148,1
+org.apache.commons.lang3.SerializationUtils,151,1

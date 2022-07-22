@@ -14,5 +14,6 @@ while read line ; do
     # fi
     echo "\n[Testing] $line"
     defects4j coverage -w "../../tmp/lang_1_fixed" -t $line -i "lang_classes/lang_all_classes"
-    cp ../../tmp/lang_1_fixed/coverage.xml coverage_data/$line.xml
+    python coverage_parser.py $line
+    # cp ../../tmp/lang_1_fixed/coverage.xml coverage_data/$line.xml
 done < "lang_tests/parsed_lang_all_tests"

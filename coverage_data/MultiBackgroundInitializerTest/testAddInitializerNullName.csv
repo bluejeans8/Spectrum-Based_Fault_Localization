@@ -1,0 +1,17 @@
+class,line,hits
+org.apache.commons.lang3.concurrent.BackgroundInitializer,102,2
+org.apache.commons.lang3.concurrent.BackgroundInitializer,103,2
+org.apache.commons.lang3.concurrent.BackgroundInitializer,115,2
+org.apache.commons.lang3.concurrent.BackgroundInitializer,116,2
+org.apache.commons.lang3.concurrent.BackgroundInitializer,117,2
+org.apache.commons.lang3.concurrent.BackgroundInitializer,136,2
+org.apache.commons.lang3.concurrent.BackgroundInitializer,155,2
+org.apache.commons.lang3.concurrent.BackgroundInitializer,160,2
+org.apache.commons.lang3.concurrent.BackgroundInitializer,161,2
+org.apache.commons.lang3.concurrent.MultiBackgroundInitializer,108,1
+org.apache.commons.lang3.concurrent.MultiBackgroundInitializer,109,1
+org.apache.commons.lang3.concurrent.MultiBackgroundInitializer,101,1
+org.apache.commons.lang3.concurrent.MultiBackgroundInitializer,102,1
+org.apache.commons.lang3.concurrent.MultiBackgroundInitializer,135,1
+org.apache.commons.lang3.concurrent.MultiBackgroundInitializer,136,2
+org.apache.commons.lang3.concurrent.MultiBackgroundInitializer,137,1

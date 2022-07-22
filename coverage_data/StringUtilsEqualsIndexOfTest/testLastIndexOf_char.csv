@@ -1,0 +1,15 @@
+class,line,hits
+org.apache.commons.lang3.CharSequenceUtils,117,3
+org.apache.commons.lang3.CharSequenceUtils,118,2
+org.apache.commons.lang3.CharSequenceUtils,120,1
+org.apache.commons.lang3.CharSequenceUtils,121,1
+org.apache.commons.lang3.CharSequenceUtils,124,1
+org.apache.commons.lang3.CharSequenceUtils,125,1
+org.apache.commons.lang3.CharSequenceUtils,127,3
+org.apache.commons.lang3.CharSequenceUtils,128,3
+org.apache.commons.lang3.CharSequenceUtils,129,1
+org.apache.commons.lang3.StringUtils,181,1
+org.apache.commons.lang3.StringUtils,217,5
+org.apache.commons.lang3.StringUtils,1051,5
+org.apache.commons.lang3.StringUtils,1052,2
+org.apache.commons.lang3.StringUtils,1054,3

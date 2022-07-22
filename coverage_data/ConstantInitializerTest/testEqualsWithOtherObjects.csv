@@ -1,0 +1,16 @@
+class,line,hits
+org.apache.commons.lang3.ObjectUtils,63,1
+org.apache.commons.lang3.ObjectUtils,154,2
+org.apache.commons.lang3.ObjectUtils,157,2
+org.apache.commons.lang3.ObjectUtils,160,2
+org.apache.commons.lang3.ObjectUtils$Null,672,1
+org.apache.commons.lang3.ObjectUtils$Null,673,1
+org.apache.commons.lang3.concurrent.ConstantInitializer,57,2
+org.apache.commons.lang3.concurrent.ConstantInitializer,58,2
+org.apache.commons.lang3.concurrent.ConstantInitializer,59,2
+org.apache.commons.lang3.concurrent.ConstantInitializer,106,4
+org.apache.commons.lang3.concurrent.ConstantInitializer,109,4
+org.apache.commons.lang3.concurrent.ConstantInitializer,110,2
+org.apache.commons.lang3.concurrent.ConstantInitializer,113,2
+org.apache.commons.lang3.concurrent.ConstantInitializer,114,2
+org.apache.commons.lang3.concurrent.ConstantInitializer,69,4

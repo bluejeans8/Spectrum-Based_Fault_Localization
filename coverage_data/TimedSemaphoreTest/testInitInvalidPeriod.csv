@@ -1,0 +1,5 @@
+class,line,hits
+org.apache.commons.lang3.concurrent.TimedSemaphore,185,1
+org.apache.commons.lang3.concurrent.TimedSemaphore,200,1
+org.apache.commons.lang3.concurrent.TimedSemaphore,202,1
+org.apache.commons.lang3.concurrent.TimedSemaphore,203,1
