@@ -1,0 +1,11 @@
+,sbfl_score
+org.apache.commons.lang3.StringEscapeUtils:583,0.3333333333333333
+org.apache.commons.lang3.text.translate.AggregateTranslator:56,0.047619047619047616
+org.apache.commons.lang3.text.translate.AggregateTranslator:50,0.041666666666666664
+org.apache.commons.lang3.text.translate.AggregateTranslator:51,0.041666666666666664
+org.apache.commons.lang3.text.translate.AggregateTranslator:52,0.041666666666666664
+org.apache.commons.lang3.text.translate.LookupTranslator:82,0.041666666666666664
+org.apache.commons.lang3.text.translate.LookupTranslator:75,0.04
+org.apache.commons.lang3.text.translate.LookupTranslator:76,0.04
+org.apache.commons.lang3.text.translate.LookupTranslator:77,0.04
+org.apache.commons.lang3.text.translate.LookupTranslator:69,0.038461538461538464

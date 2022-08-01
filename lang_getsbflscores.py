@@ -1,8 +1,10 @@
 # ochiai
+import sys
 import pandas as pd
 
 df_test_list = list()
-with open("/tmp/lang_3_buggy/failing_tests",'r') as rf:
+version_num = sys.argv[1]
+with open("/tmp/lang_" + version_num + "_buggy/failing_tests",'r') as rf:
     for line in rf.readlines():
         if line.startswith("---"):
             file_name = './coverage_data/' + line.split("::")[0].split(".")[-1] + '/' + line.split("::")[1][:-1] + '.csv'
@@ -37,7 +39,9 @@ for index, row in df_spectrum.iterrows():
                 row_name = column + ":" + str(index)
                 df_sbfl_score.loc[row_name] = [ochiai]
 
-print(df_sbfl_score.nlargest(10,'sbfl_score'))
+sbfl_score_df = df_sbfl_score.nlargest(10,'sbfl_score')
+sbfl_score_df.to_csv('./sbfl_data/bug#'+version_num+'_sbfl_score_ranking.csv',index=True)
+
 
 
 
