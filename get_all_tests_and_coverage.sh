@@ -1,7 +1,8 @@
 #!/bin/sh
 
 a=0
-while [ "$a" -lt 65 ]
+while [ "$a" -lt 1 ]
+# getting only first buggy version
 do
     a=$(expr $a + 1)
     if [ "$a" -eq 2 ]
@@ -18,7 +19,15 @@ do
     while read line ; do
         echo "\n[Getting coverage] $line"
         defects4j coverage -w /tmp/lang_${a}_buggy -t $line -i /usr/Jinseok_SBFL/lang_classes/suspicious_classes/suspicious_classes#${a}
-        cp /tmp/lang_${a}_buggy/coverage.xml /usr/Jinseok_SBFL/lang_coverage/all_tests_coverage_data/lang_${a}_buggy/$line.xml
+        cd /usr/Jinseok_SBFL/lang_coverage
+        python filter_not_covering_tests.py $a
+        if [ "$?" -eq 0 ]
+        then
+            echo "\n$line : no covered lines" 
+            continue
+        else
+            cp /tmp/lang_${a}_buggy/coverage.xml /usr/Jinseok_SBFL/lang_coverage/all_tests_coverage_data/lang_${a}_buggy/$line.xml
+        fi
     done < "/usr/Jinseok_SBFL/lang_tests/all_tests/all_tests#${a}"
 done
 
