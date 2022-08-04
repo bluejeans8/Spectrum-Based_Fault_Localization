@@ -1,7 +1,14 @@
 import glob
+import sys
 
-files = glob.glob("../../tmp/lang_1_fixed/src/main/java" + '/**/*.java', recursive = True)
-with open('lang_all_classes','w') as wf:
+version_num = sys.argv[1]
+path = ""
+if int(version_num) <= 35:
+    path = "/tmp/lang_" + version_num + "_buggy/src/main/java"
+else:
+    path = "/tmp/lang_" + version_num + "_buggy/src/java"
+files = glob.glob(path + '/**/*.java', recursive = True)
+with open('/usr/Jinseok_SBFL/lang_classes/all_classes/all_classes#' + version_num,'w') as wf:
     for file in files:
         index = file.find("org")
         parsed1 = file[index:]
