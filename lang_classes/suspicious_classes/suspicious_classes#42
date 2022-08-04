@@ -1,0 +1,3 @@
+org.apache.commons.lang.StringEscapeUtils
+org.apache.commons.lang.Entities
+org.apache.commons.lang.IntHashMap
