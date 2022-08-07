@@ -1,9 +1,0 @@
-class,line,hits
-org.apache.commons.lang3.concurrent.AtomicSafeInitializer,56,2
-org.apache.commons.lang3.concurrent.AtomicSafeInitializer,59,1
-org.apache.commons.lang3.concurrent.AtomicSafeInitializer,60,1
-org.apache.commons.lang3.concurrent.AtomicSafeInitializer,63,1
-org.apache.commons.lang3.concurrent.AtomicSafeInitializer,76,100
-org.apache.commons.lang3.concurrent.AtomicSafeInitializer,77,60
-org.apache.commons.lang3.concurrent.AtomicSafeInitializer,78,1
-org.apache.commons.lang3.concurrent.AtomicSafeInitializer,82,20

@@ -10,5 +10,5 @@ do
     fi
     echo "\nGetting all classes of buggy version#$a"
     cd /usr/Jinseok_SBFL/lang_classes
-    python lang_get_all_classes.py $a
+    python get_all_classes.py $a
 done

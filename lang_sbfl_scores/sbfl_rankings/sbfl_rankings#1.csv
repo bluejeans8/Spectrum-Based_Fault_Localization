@@ -1,0 +1,11 @@
+,sbfl_score
+createNumber:(Ljava/lang/String;)Ljava/lang/Number;:462,0.25
+createNumber:(Ljava/lang/String;)Ljava/lang/Number;:463,0.25
+createNumber:(Ljava/lang/String;)Ljava/lang/Number;:467,0.25
+createNumber:(Ljava/lang/String;)Ljava/lang/Number;:468,0.25
+createNumber:(Ljava/lang/String;)Ljava/lang/Number;:471,0.25
+createNumber:(Ljava/lang/String;)Ljava/lang/Number;:474,0.25
+createInteger:(Ljava/lang/String;)Ljava/lang/Integer;:680,0.2
+createInteger:(Ljava/lang/String;)Ljava/lang/Integer;:684,0.2
+createNumber:(Ljava/lang/String;)Ljava/lang/Number;:451,0.1
+createNumber:(Ljava/lang/String;)Ljava/lang/Number;:454,0.1
