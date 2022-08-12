@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+
+<coverage line-rate="0.6153846153846154" branch-rate="1.0" lines-covered="16" lines-valid="26" branches-covered="2" branches-valid="2" complexity="1.0909090909090908" version="2.0.3" timestamp="1660141708594">
+	<sources>
+		<source>src/main/java</source>
+	</sources>
+	<packages>
+		<package name="org.apache.commons.lang3.text.translate" line-rate="0.6153846153846154" branch-rate="1.0" complexity="1.0909090909090908">
+			<classes>
+				<class name="org.apache.commons.lang3.text.translate.EntityArrays" filename="org/apache/commons/lang3/text/translate/EntityArrays.java" line-rate="0.6153846153846154" branch-rate="1.0" complexity="1.0909090909090908">
+					<methods>
+						<method name="&lt;clinit&gt;" signature="()V" line-rate="1.0" branch-rate="1.0">
+							<lines>
+								<line number="31" hits="1" branch="false"/>
+								<line number="131" hits="1" branch="false"/>
+								<line number="135" hits="1" branch="false"/>
+								<line number="333" hits="1" branch="false"/>
+								<line number="336" hits="1" branch="false"/>
+								<line number="344" hits="1" branch="false"/>
+								<line number="347" hits="1" branch="false"/>
+								<line number="352" hits="1" branch="false"/>
+								<line number="355" hits="1" branch="false"/>
+								<line number="364" hits="1" branch="false"/>
+							</lines>
+						</method>
+						<method name="&lt;init&gt;" signature="()V" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="28" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="APOS_ESCAPE" signature="()[[Ljava/lang/String;" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="346" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="APOS_UNESCAPE" signature="()[[Ljava/lang/String;" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="351" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="BASIC_ESCAPE" signature="()[[Ljava/lang/String;" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="335" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="BASIC_UNESCAPE" signature="()[[Ljava/lang/String;" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="343" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="HTML40_EXTENDED_ESCAPE" signature="()[[Ljava/lang/String;" line-rate="1.0" branch-rate="1.0">
+							<lines>
+								<line number="134" hits="1" branch="false"/>
+							</lines>
+						</method>
+						<method name="HTML40_EXTENDED_UNESCAPE" signature="()[[Ljava/lang/String;" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="332" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="ISO8859_1_ESCAPE" signature="()[[Ljava/lang/String;" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="30" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="ISO8859_1_UNESCAPE" signature="()[[Ljava/lang/String;" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="130" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="JAVA_CTRL_CHARS_ESCAPE" signature="()[[Ljava/lang/String;" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="354" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="JAVA_CTRL_CHARS_UNESCAPE" signature="()[[Ljava/lang/String;" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="363" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="invert" signature="([[Ljava/lang/String;)[[Ljava/lang/String;" line-rate="1.0" branch-rate="1.0">
+							<lines>
+								<line number="372" hits="5" branch="false"/>
+								<line number="373" hits="262" branch="true" condition-coverage="100% (2/2)">
+									<conditions>
+										<condition number="0" type="jump" coverage="100%"/>
+									</conditions>
+								</line>
+								<line number="374" hits="257" branch="false"/>
+								<line number="375" hits="257" branch="false"/>
+								<line number="377" hits="5" branch="false"/>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="28" hits="0" branch="false"/>
+						<line number="30" hits="0" branch="false"/>
+						<line number="31" hits="1" branch="false"/>
+						<line number="130" hits="0" branch="false"/>
+						<line number="131" hits="1" branch="false"/>
+						<line number="134" hits="1" branch="false"/>
+						<line number="135" hits="1" branch="false"/>
+						<line number="332" hits="0" branch="false"/>
+						<line number="333" hits="1" branch="false"/>
+						<line number="335" hits="0" branch="false"/>
+						<line number="336" hits="1" branch="false"/>
+						<line number="343" hits="0" branch="false"/>
+						<line number="344" hits="1" branch="false"/>
+						<line number="346" hits="0" branch="false"/>
+						<line number="347" hits="1" branch="false"/>
+						<line number="351" hits="0" branch="false"/>
+						<line number="352" hits="1" branch="false"/>
+						<line number="354" hits="0" branch="false"/>
+						<line number="355" hits="1" branch="false"/>
+						<line number="363" hits="0" branch="false"/>
+						<line number="364" hits="1" branch="false"/>
+						<line number="372" hits="5" branch="false"/>
+						<line number="373" hits="262" branch="true" condition-coverage="100% (2/2)">
+							<conditions>
+								<condition number="0" type="jump" coverage="100%"/>
+							</conditions>
+						</line>
+						<line number="374" hits="257" branch="false"/>
+						<line number="375" hits="257" branch="false"/>
+						<line number="377" hits="5" branch="false"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+	</packages>
+</coverage>

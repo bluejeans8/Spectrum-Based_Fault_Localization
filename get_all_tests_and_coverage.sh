@@ -1,7 +1,7 @@
 #!/bin/sh
 
 a=0
-while [ "$a" -lt 1 ]
+while [ "$a" -lt 65 ]
 # getting only first buggy version
 do
     a=$(expr $a + 1)
