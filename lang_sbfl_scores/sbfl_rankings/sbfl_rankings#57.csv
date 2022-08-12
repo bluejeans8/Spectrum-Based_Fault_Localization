@@ -1,0 +1,7 @@
+class:method:signature:line,sbfl_score
+org.apache.commons.lang.LocaleUtils:<clinit>:()V:47,0.09090909090909091
+org.apache.commons.lang.LocaleUtils:<clinit>:()V:49,0.09090909090909091
+org.apache.commons.lang.LocaleUtils:<clinit>:()V:51,0.09090909090909091
+org.apache.commons.lang.LocaleUtils:<clinit>:()V:52,0.09090909090909091
+org.apache.commons.lang.LocaleUtils:<clinit>:()V:53,0.09090909090909091
+org.apache.commons.lang.LocaleUtils:isAvailableLocale:(Ljava/util/Locale;)Z:223,0.09090909090909091

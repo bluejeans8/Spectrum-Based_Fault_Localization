@@ -35,7 +35,8 @@ for file in files:
         if ochiai > 0:
             df_sbfl_score.loc[index] = [ochiai]
 
-sbfl_score_df = df_sbfl_score.nlargest(10,'sbfl_score')
+sbfl_score_df = df_sbfl_score.sort_values(by ='sbfl_score', ascending = False)
+sbfl_score_df.index.name = 'class:method:signature:line'
 sbfl_score_df.to_csv('/usr/Jinseok_SBFL/lang_sbfl_scores/sbfl_rankings/sbfl_rankings#'+version_num+'.csv',index=True)
 
 

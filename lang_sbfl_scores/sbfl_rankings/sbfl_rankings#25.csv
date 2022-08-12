@@ -1,0 +1,17 @@
+class:method:signature:line,sbfl_score
+org.apache.commons.lang3.text.translate.EntityArrays:ISO8859_1_ESCAPE:()[[Ljava/lang/String;:30,0.047619047619047616
+org.apache.commons.lang3.text.translate.EntityArrays:<clinit>:()V:31,0.043478260869565216
+org.apache.commons.lang3.text.translate.EntityArrays:<clinit>:()V:131,0.043478260869565216
+org.apache.commons.lang3.text.translate.EntityArrays:<clinit>:()V:135,0.043478260869565216
+org.apache.commons.lang3.text.translate.EntityArrays:<clinit>:()V:333,0.043478260869565216
+org.apache.commons.lang3.text.translate.EntityArrays:<clinit>:()V:336,0.043478260869565216
+org.apache.commons.lang3.text.translate.EntityArrays:<clinit>:()V:344,0.043478260869565216
+org.apache.commons.lang3.text.translate.EntityArrays:<clinit>:()V:347,0.043478260869565216
+org.apache.commons.lang3.text.translate.EntityArrays:<clinit>:()V:352,0.043478260869565216
+org.apache.commons.lang3.text.translate.EntityArrays:<clinit>:()V:355,0.043478260869565216
+org.apache.commons.lang3.text.translate.EntityArrays:<clinit>:()V:364,0.043478260869565216
+org.apache.commons.lang3.text.translate.EntityArrays:invert:([[Ljava/lang/String;)[[Ljava/lang/String;:372,0.043478260869565216
+org.apache.commons.lang3.text.translate.EntityArrays:invert:([[Ljava/lang/String;)[[Ljava/lang/String;:373,0.043478260869565216
+org.apache.commons.lang3.text.translate.EntityArrays:invert:([[Ljava/lang/String;)[[Ljava/lang/String;:374,0.043478260869565216
+org.apache.commons.lang3.text.translate.EntityArrays:invert:([[Ljava/lang/String;)[[Ljava/lang/String;:375,0.043478260869565216
+org.apache.commons.lang3.text.translate.EntityArrays:invert:([[Ljava/lang/String;)[[Ljava/lang/String;:377,0.043478260869565216

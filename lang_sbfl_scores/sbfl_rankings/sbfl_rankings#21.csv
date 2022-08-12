@@ -1,0 +1,5 @@
+class:method:signature:line,sbfl_score
+org.apache.commons.lang3.time.DateUtils:isSameLocalTime:(Ljava/util/Calendar;Ljava/util/Calendar;)Z:259,1.0
+org.apache.commons.lang3.time.DateUtils:isSameLocalTime:(Ljava/util/Calendar;Ljava/util/Calendar;)Z:262,1.0
+org.apache.commons.lang3.time.DateUtils:<clinit>:()V:60,0.009174311926605505
+org.apache.commons.lang3.time.DateUtils:<clinit>:()V:88,0.009174311926605505

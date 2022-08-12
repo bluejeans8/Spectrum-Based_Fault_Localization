@@ -26,7 +26,7 @@ for cl in classes:
     for method in methods:
         lines = method.findall('./lines/line')
         for line in lines:
-            spectrum_df.loc[method.attrib['name'] + ":" + method.attrib['signature'] + ":" + line.attrib['number']] = [0,] * 2
+            spectrum_df.loc[cl.attrib['name'] + ':' + method.attrib['name'] + ":" + method.attrib['signature'] + ":" + line.attrib['number']] = [0,] * 2
     spectrum_dataframes[cl.attrib['name']] = spectrum_df
 
 # add values to the spectrum dataframes
@@ -46,9 +46,9 @@ for file in files:
                 if int(line.attrib['hits']) > 0:
                     if test_name in failing_tests:
                         print(method.attrib['name'], line.attrib['number'])
-                        spectrum_df['ef'][method.attrib['name'] + ":" + method.attrib['signature'] + ":" + line.attrib['number']] += 1
+                        spectrum_df['ef'][cl.attrib['name'] + ':' + method.attrib['name'] + ":" + method.attrib['signature'] + ":" + line.attrib['number']] += 1
                     else:
-                        spectrum_df['ep'][method.attrib['name'] + ":" + method.attrib['signature'] + ":" + line.attrib['number']] += 1
+                        spectrum_df['ep'][cl.attrib['name'] + ':' + method.attrib['name'] + ":" + method.attrib['signature'] + ":" + line.attrib['number']] += 1
 
 
 for item in spectrum_dataframes.items():

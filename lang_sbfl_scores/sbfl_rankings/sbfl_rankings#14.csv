@@ -1,0 +1,6 @@
+class:method:signature:line,sbfl_score
+org.apache.commons.lang3.StringUtils:equals:(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z:782,0.058823529411764705
+org.apache.commons.lang3.StringUtils:equals:(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z:783,0.058823529411764705
+org.apache.commons.lang3.StringUtils:equals:(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z:785,0.058823529411764705
+org.apache.commons.lang3.StringUtils:equals:(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z:788,0.058823529411764705
+org.apache.commons.lang3.StringUtils:<clinit>:()V:148,0.003194888178913738

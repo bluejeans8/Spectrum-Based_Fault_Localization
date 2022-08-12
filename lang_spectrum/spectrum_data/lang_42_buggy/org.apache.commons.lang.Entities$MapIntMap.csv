@@ -1,0 +1,10 @@
+,ep,ef
+org.apache.commons.lang.Entities$MapIntMap:<init>:()V:472,4,0
+org.apache.commons.lang.Entities$MapIntMap:add:(Ljava/lang/String;I)V:481,4,0
+org.apache.commons.lang.Entities$MapIntMap:add:(Ljava/lang/String;I)V:482,4,0
+org.apache.commons.lang.Entities$MapIntMap:add:(Ljava/lang/String;I)V:483,4,0
+org.apache.commons.lang.Entities$MapIntMap:name:(I)Ljava/lang/String;:489,2,0
+org.apache.commons.lang.Entities$MapIntMap:value:(Ljava/lang/String;)I:496,2,0
+org.apache.commons.lang.Entities$MapIntMap:value:(Ljava/lang/String;)I:497,2,0
+org.apache.commons.lang.Entities$MapIntMap:value:(Ljava/lang/String;)I:498,1,0
+org.apache.commons.lang.Entities$MapIntMap:value:(Ljava/lang/String;)I:500,2,0

@@ -1,0 +1,13 @@
+class:method:signature:line,sbfl_score
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;:879,0.3333333333333333
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;:880,0.3333333333333333
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;:881,0.3333333333333333
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;:882,0.3333333333333333
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;:883,0.3333333333333333
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;:884,0.3333333333333333
+org.apache.commons.lang.text.StrBuilder:<init>:(I)V:107,0.007936507936507936
+org.apache.commons.lang.text.StrBuilder:<init>:(I)V:108,0.007936507936507936
+org.apache.commons.lang.text.StrBuilder:<init>:(I)V:111,0.007936507936507936
+org.apache.commons.lang.text.StrBuilder:<init>:(I)V:112,0.007936507936507936
+org.apache.commons.lang.text.StrBuilder:ensureCapacity:(I)Lorg/apache/commons/lang/text/StrBuilder;:228,0.005780346820809248
+org.apache.commons.lang.text.StrBuilder:ensureCapacity:(I)Lorg/apache/commons/lang/text/StrBuilder;:233,0.005780346820809248

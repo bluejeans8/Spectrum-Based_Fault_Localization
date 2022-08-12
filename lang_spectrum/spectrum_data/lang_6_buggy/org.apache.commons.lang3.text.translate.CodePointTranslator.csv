@@ -1,0 +1,7 @@
+,ep,ef
+org.apache.commons.lang3.text.translate.CodePointTranslator:<init>:()V:29,31,1
+org.apache.commons.lang3.text.translate.CodePointTranslator:translate:(Ljava/lang/CharSequence;ILjava/io/Writer;)I:37,13,0
+org.apache.commons.lang3.text.translate.CodePointTranslator:translate:(Ljava/lang/CharSequence;ILjava/io/Writer;)I:38,13,0
+org.apache.commons.lang3.text.translate.CodePointTranslator:translate:(Ljava/lang/CharSequence;ILjava/io/Writer;)I:39,13,0
+org.apache.commons.lang3.text.translate.CodePointTranslator:translate:(Ljava/lang/CharSequence;ILjava/io/Writer;)I:40,11,0
+org.apache.commons.lang3.text.translate.CodePointTranslator:translate:(Ljava/lang/CharSequence;ILjava/io/Writer;)I:42,11,0

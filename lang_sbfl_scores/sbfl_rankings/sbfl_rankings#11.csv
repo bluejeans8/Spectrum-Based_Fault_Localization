@@ -1,0 +1,12 @@
+class:method:signature:line,sbfl_score
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;:253,0.3333333333333333
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ)Ljava/lang/String;:163,0.25
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;:234,0.25
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;:247,0.25
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;:248,0.25
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;:250,0.25
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;:252,0.25
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;:225,0.2
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;:227,0.2
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;:230,0.2
+org.apache.commons.lang3.RandomStringUtils:<clinit>:()V:43,0.16666666666666666
