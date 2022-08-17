@@ -1,0 +1,5 @@
+org.apache.commons.lang.time.StopWatch:suspend:()V
+org.apache.commons.lang.time.StopWatch:getTime:()J
+org.apache.commons.lang.time.StopWatch:stop:()V
+org.apache.commons.lang.time.StopWatch:start:()V
+org.apache.commons.lang.time.StopWatch:<init>:()V

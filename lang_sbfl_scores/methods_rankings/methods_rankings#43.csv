@@ -1,0 +1,5 @@
+org.apache.commons.lang.text.ExtendedMessageFormat:appendQuotedString:(Ljava/lang/String;Ljava/text/ParsePosition;Ljava/lang/StringBuffer;Z)Ljava/lang/StringBuffer;
+org.apache.commons.lang.text.ExtendedMessageFormat:applyPattern:(Ljava/lang/String;)V
+org.apache.commons.lang.text.ExtendedMessageFormat:<init>:(Ljava/lang/String;Ljava/util/Map;)V
+org.apache.commons.lang.text.ExtendedMessageFormat:next:(Ljava/text/ParsePosition;)Ljava/text/ParsePosition;
+org.apache.commons.lang.text.ExtendedMessageFormat:<init>:(Ljava/lang/String;Ljava/util/Locale;Ljava/util/Map;)V

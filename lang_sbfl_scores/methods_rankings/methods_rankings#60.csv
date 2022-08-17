@@ -1,0 +1,14 @@
+org.apache.commons.lang.text.StrBuilder:contains:(C)Z
+org.apache.commons.lang.text.StrBuilder:deleteFirst:(Ljava/lang/String;)Lorg/apache/commons/lang/text/StrBuilder;
+org.apache.commons.lang.text.StrBuilder:indexOf:(Ljava/lang/String;I)I
+org.apache.commons.lang.text.StrBuilder:deleteImpl:(III)V
+org.apache.commons.lang.text.StrBuilder:<init>:(Ljava/lang/String;)V
+org.apache.commons.lang.text.StrBuilder:append:(Ljava/lang/String;)Lorg/apache/commons/lang/text/StrBuilder;
+org.apache.commons.lang.text.StrBuilder:ensureCapacity:(I)Lorg/apache/commons/lang/text/StrBuilder;
+org.apache.commons.lang.text.StrBuilder:length:()I
+org.apache.commons.lang.text.StrMatcher$TrimMatcher:<init>:()V
+org.apache.commons.lang.text.StrMatcher$CharSetMatcher:<init>:([C)V
+org.apache.commons.lang.text.StrMatcher:<clinit>:()V
+org.apache.commons.lang.text.StrMatcher:<init>:()V
+org.apache.commons.lang.text.StrMatcher$CharMatcher:<init>:(C)V
+org.apache.commons.lang.text.StrMatcher$NoMatcher:<init>:()V

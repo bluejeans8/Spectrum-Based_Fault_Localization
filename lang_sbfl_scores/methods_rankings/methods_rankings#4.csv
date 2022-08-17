@@ -1,0 +1,5 @@
+org.apache.commons.lang3.text.translate.LookupTranslator:translate:(Ljava/lang/CharSequence;ILjava/io/Writer;)I
+org.apache.commons.lang3.text.translate.LookupTranslator:<init>:([[Ljava/lang/CharSequence;)V
+org.apache.commons.lang3.text.translate.CharSequenceTranslator:<init>:()V
+
+1

@@ -1,0 +1,4 @@
+org.apache.commons.lang.StringEscapeUtils:escapeJavaStyleString:(Ljava/io/Writer;Ljava/lang/String;Z)V
+org.apache.commons.lang.StringEscapeUtils:escapeJava:(Ljava/lang/String;)Ljava/lang/String;
+org.apache.commons.lang.StringEscapeUtils:escapeJavaStyleString:(Ljava/lang/String;Z)Ljava/lang/String;
+org.apache.commons.lang.StringEscapeUtils:<clinit>:()V

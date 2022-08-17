@@ -1,0 +1,2 @@
+org.apache.commons.lang.NumberUtils:createNumber:(Ljava/lang/String;)Ljava/lang/Number;
+org.apache.commons.lang.NumberUtils:isAllZeros:(Ljava/lang/String;)Z

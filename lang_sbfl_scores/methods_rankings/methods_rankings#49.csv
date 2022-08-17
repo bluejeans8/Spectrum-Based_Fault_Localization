@@ -1,0 +1,7 @@
+org.apache.commons.lang.math.Fraction:reduce:()Lorg/apache/commons/lang/math/Fraction;
+org.apache.commons.lang.math.Fraction:getFraction:(II)Lorg/apache/commons/lang/math/Fraction;
+org.apache.commons.lang.math.Fraction:greatestCommonDivisor:(II)I
+org.apache.commons.lang.math.Fraction:getDenominator:()I
+org.apache.commons.lang.math.Fraction:getNumerator:()I
+org.apache.commons.lang.math.Fraction:<clinit>:()V
+org.apache.commons.lang.math.Fraction:<init>:(II)V

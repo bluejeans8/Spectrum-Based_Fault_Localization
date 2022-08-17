@@ -1,0 +1,2 @@
+org.apache.commons.lang.StringUtils:containsIgnoreCase:(Ljava/lang/String;Ljava/lang/String;)Z
+org.apache.commons.lang.StringUtils:contains:(Ljava/lang/String;Ljava/lang/String;)Z
