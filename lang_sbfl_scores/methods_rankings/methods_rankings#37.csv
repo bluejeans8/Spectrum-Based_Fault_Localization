@@ -1,2 +1,2 @@
-org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;
-org.apache.commons.lang3.ArrayUtils:<clinit>:()V
+org.apache.commons.lang3.ArrayUtils$addAll<[Ljava/lang/Object;[Ljava/lang/Object;>
+org.apache.commons.lang3.ArrayUtils$<clinit><>

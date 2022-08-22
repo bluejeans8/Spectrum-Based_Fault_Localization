@@ -1,2 +1,2 @@
-org.apache.commons.lang.LocaleUtils:<clinit>:()V
-org.apache.commons.lang.LocaleUtils:isAvailableLocale:(Ljava/util/Locale;)Z
+org.apache.commons.lang.LocaleUtils$<clinit><>
+org.apache.commons.lang.LocaleUtils$isAvailableLocale<Ljava/util/Locale;>

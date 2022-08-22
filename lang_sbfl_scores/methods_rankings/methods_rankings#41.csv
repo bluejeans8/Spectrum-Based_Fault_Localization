@@ -1,6 +1,6 @@
-org.apache.commons.lang.ClassUtils:getPackageName:(Ljava/lang/Class;)Ljava/lang/String;
-org.apache.commons.lang.ClassUtils:getShortClassName:(Ljava/lang/Class;)Ljava/lang/String;
-org.apache.commons.lang.ClassUtils:getPackageName:(Ljava/lang/String;)Ljava/lang/String;
-org.apache.commons.lang.ClassUtils:getShortClassName:(Ljava/lang/String;)Ljava/lang/String;
-org.apache.commons.lang.ClassUtils:<clinit>:()V
-org.apache.commons.lang.ClassUtils:addAbbreviation:(Ljava/lang/String;Ljava/lang/String;)V
+org.apache.commons.lang.ClassUtils$getPackageName<Ljava/lang/Class;>
+org.apache.commons.lang.ClassUtils$getShortClassName<Ljava/lang/Class;>
+org.apache.commons.lang.ClassUtils$getPackageName<Ljava/lang/String;>
+org.apache.commons.lang.ClassUtils$getShortClassName<Ljava/lang/String;>
+org.apache.commons.lang.ClassUtils$<clinit><>
+org.apache.commons.lang.ClassUtils$addAbbreviation<Ljava/lang/String;Ljava/lang/String;>

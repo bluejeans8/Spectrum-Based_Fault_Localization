@@ -1,2 +1,2 @@
-org.apache.commons.lang3.time.DateUtils:isSameLocalTime:(Ljava/util/Calendar;Ljava/util/Calendar;)Z
-org.apache.commons.lang3.time.DateUtils:<clinit>:()V
+org.apache.commons.lang3.time.DateUtils$isSameLocalTime<Ljava/util/Calendar;Ljava/util/Calendar;>
+org.apache.commons.lang3.time.DateUtils$<clinit><>

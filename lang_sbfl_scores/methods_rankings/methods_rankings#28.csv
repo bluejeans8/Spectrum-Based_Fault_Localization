@@ -1,5 +1,5 @@
-org.apache.commons.lang3.text.translate.NumericEntityUnescaper:translate:(Ljava/lang/CharSequence;ILjava/io/Writer;)I
-org.apache.commons.lang3.text.translate.CharSequenceTranslator:translate:(Ljava/lang/CharSequence;Ljava/io/Writer;)V
-org.apache.commons.lang3.text.translate.NumericEntityUnescaper:<init>:()V
-org.apache.commons.lang3.text.translate.CharSequenceTranslator:translate:(Ljava/lang/CharSequence;)Ljava/lang/String;
-org.apache.commons.lang3.text.translate.CharSequenceTranslator:<init>:()V
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper$translate<Ljava/lang/CharSequence;ILjava/io/Writer;>
+org.apache.commons.lang3.text.translate.CharSequenceTranslator$translate<Ljava/lang/CharSequence;Ljava/io/Writer;>
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper$<init><>
+org.apache.commons.lang3.text.translate.CharSequenceTranslator$translate<Ljava/lang/CharSequence;>
+org.apache.commons.lang3.text.translate.CharSequenceTranslator$<init><>

@@ -1,3 +1,3 @@
-org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;
-org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ)Ljava/lang/String;
-org.apache.commons.lang3.RandomStringUtils:<clinit>:()V
+org.apache.commons.lang3.RandomStringUtils$random<IIIZZ[CLjava/util/Random;>
+org.apache.commons.lang3.RandomStringUtils$random<IIIZZ>
+org.apache.commons.lang3.RandomStringUtils$<clinit><>

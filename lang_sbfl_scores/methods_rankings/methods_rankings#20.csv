@@ -1,6 +1,6 @@
-org.apache.commons.lang3.StringUtils:join:([Ljava/lang/Object;C)Ljava/lang/String;
-org.apache.commons.lang3.StringUtils:join:([Ljava/lang/Object;CII)Ljava/lang/String;
-org.apache.commons.lang3.StringUtils:join:([Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/String;
-org.apache.commons.lang3.StringUtils:join:([Ljava/lang/Object;)Ljava/lang/String;
-org.apache.commons.lang3.StringUtils:join:([Ljava/lang/Object;Ljava/lang/String;II)Ljava/lang/String;
-org.apache.commons.lang3.StringUtils:<clinit>:()V
+org.apache.commons.lang3.StringUtils$join<[Ljava/lang/Object;C>
+org.apache.commons.lang3.StringUtils$join<[Ljava/lang/Object;CII>
+org.apache.commons.lang3.StringUtils$join<[Ljava/lang/Object;Ljava/lang/String;>
+org.apache.commons.lang3.StringUtils$join<[Ljava/lang/Object;>
+org.apache.commons.lang3.StringUtils$join<[Ljava/lang/Object;Ljava/lang/String;II>
+org.apache.commons.lang3.StringUtils$<clinit><>

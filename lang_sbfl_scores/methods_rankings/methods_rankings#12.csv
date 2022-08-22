@@ -1,6 +1,6 @@
-org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;
-org.apache.commons.lang3.RandomStringUtils:random:(I[C)Ljava/lang/String;
-org.apache.commons.lang3.RandomStringUtils:<clinit>:()V
-org.apache.commons.lang3.RandomStringUtils:random:(I)Ljava/lang/String;
-org.apache.commons.lang3.RandomStringUtils:random:(IZZ)Ljava/lang/String;
-org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ)Ljava/lang/String;
+org.apache.commons.lang3.RandomStringUtils$random<IIIZZ[CLjava/util/Random;>
+org.apache.commons.lang3.RandomStringUtils$random<I[C>
+org.apache.commons.lang3.RandomStringUtils$<clinit><>
+org.apache.commons.lang3.RandomStringUtils$random<I>
+org.apache.commons.lang3.RandomStringUtils$random<IZZ>
+org.apache.commons.lang3.RandomStringUtils$random<IIIZZ>

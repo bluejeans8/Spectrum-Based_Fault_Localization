@@ -1,2 +1,2 @@
-org.apache.commons.lang3.StringUtils:replaceEach:(Ljava/lang/String;[Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/String;
-org.apache.commons.lang3.StringUtils:replaceEach:(Ljava/lang/String;[Ljava/lang/String;[Ljava/lang/String;ZI)Ljava/lang/String;
+org.apache.commons.lang3.StringUtils$replaceEach<Ljava/lang/String;[Ljava/lang/String;[Ljava/lang/String;>
+org.apache.commons.lang3.StringUtils$replaceEach<Ljava/lang/String;[Ljava/lang/String;[Ljava/lang/String;ZI>

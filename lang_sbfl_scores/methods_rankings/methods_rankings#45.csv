@@ -1,3 +1,3 @@
-org.apache.commons.lang.WordUtils:abbreviate:(Ljava/lang/String;IILjava/lang/String;)Ljava/lang/String;
-org.apache.commons.lang.StringUtils:indexOf:(Ljava/lang/String;Ljava/lang/String;I)I
-org.apache.commons.lang.StringUtils:defaultString:(Ljava/lang/String;)Ljava/lang/String;
+org.apache.commons.lang.WordUtils$abbreviate<Ljava/lang/String;IILjava/lang/String;>
+org.apache.commons.lang.StringUtils$indexOf<Ljava/lang/String;Ljava/lang/String;I>
+org.apache.commons.lang.StringUtils$defaultString<Ljava/lang/String;>

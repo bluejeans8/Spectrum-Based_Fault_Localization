@@ -1,4 +1,4 @@
-org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;
-org.apache.commons.lang3.ClassUtils:<clinit>:()V
-org.apache.commons.lang3.ClassUtils:addAbbreviation:(Ljava/lang/String;Ljava/lang/String;)V
-org.apache.commons.lang3.ArrayUtils:<clinit>:()V
+org.apache.commons.lang3.ClassUtils$toClass<[Ljava/lang/Object;>
+org.apache.commons.lang3.ClassUtils$<clinit><>
+org.apache.commons.lang3.ClassUtils$addAbbreviation<Ljava/lang/String;Ljava/lang/String;>
+org.apache.commons.lang3.ArrayUtils$<clinit><>
