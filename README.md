@@ -1,4 +1,4 @@
-# Spectrum-Based-Fault-Localization
+# Spectrum-Based Fault Localization
 
 ## Abstract  
 Spectrum Based Fault Localisation(SBFL), using 64 real-world faults from the Defects4j repository. 
